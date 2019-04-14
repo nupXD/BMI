@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="hed">Body Mass Index</string>
+</resources>
